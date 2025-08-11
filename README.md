@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TJ
 ==========================================================================================================================
 
-Data Science Professional
+Data Professional
 -------------------------
 
-I’m a skilled data scientist, committed to translating complex data into insightful, actionable strategies. I excel at utilizing diverse statistical tools, machine learning algorithms, and big data technologies to unearth valuable patterns and trends in data that guide strategic decision-making. I engineer and optimize data analytics processes to be efficient and clear, enabling businesses to focus on their core objectives and transform raw data into profits. My expertise has delivered value to numerous projects and real-world business applications, spanning from sales forecasting to customer churn analysis and image classification.
+I'm skilled data professional, committed to translating complex data into insightful, actionable strategies. I bridge the gap between data and impactful solutions. My background in physics and mathematics, coupled with professional certifications in big data analytics and AI, informs my approach to data engineering and software development.  Experience in diverse settings, from libraries to entrepreneurial ventures, has honed my ability to not only analyze and interpret complex data but also to communicate findings effectively to both technical and non-technical audiences.  I'm passionate about leveraging data science, particularly in healthcare, to drive innovation and improve outcomes.
 
 * 🌍  I'm based in Barrie, Canada
 * 🧠  Currently I'm learning LLMops
