@@ -7,7 +7,7 @@ Data Science Professional
 I’m a skilled data scientist, committed to translating complex data into insightful, actionable strategies. I excel at utilizing diverse statistical tools, machine learning algorithms, and big data technologies to unearth valuable patterns and trends in data that guide strategic decision-making. I engineer and optimize data analytics processes to be efficient and clear, enabling businesses to focus on their core objectives and transform raw data into profits. My expertise has delivered value to numerous projects and real-world business applications, spanning from sales forecasting to customer churn analysis and image classification.
 
 * 🌍  I'm based in Barrie, Canada
-* 🧠  I'm learning Neural Networks 
+* 🧠  Currently I'm learning LLMops
 * 🤝  I'm open to collaborating on Data Science Projects 
 
 ### Skills
