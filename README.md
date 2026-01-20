@@ -7,7 +7,7 @@ Data Professional
 I'm skilled data professional, committed to translating complex data into insightful, actionable strategies. I bridge the gap between data and impactful solutions. My background in physics and mathematics, coupled with professional certifications in big data analytics and AI, informs my approach to data engineering and software development.  Experience in diverse settings, from libraries to entrepreneurial ventures, has honed my ability to not only analyze and interpret complex data but also to communicate findings effectively to both technical and non-technical audiences.  I'm passionate about leveraging data science, particularly in healthcare, to drive innovation and improve outcomes.
 
 * 🌍  I'm based in Barrie, Canada
-* 🧠  Currently I'm learning LLMops
+* 🧠  Currently I'm learning QML Basics
 * 🤝  I'm open to collaborating on Data Science Projects 
 
 ### Skills
