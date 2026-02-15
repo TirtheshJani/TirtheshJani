@@ -106,8 +106,6 @@ I'm a **Data Professional** based in **Barrie, Canada**, passionate about transf
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TirtheshJani&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TirtheshJani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 ---
@@ -161,7 +159,6 @@ I'm always open to discussing new projects, collaborations, or opportunities in:
 ## ⚡ Fun Facts
 
 - 🧮 I love understanding ML algorithms at the mathematical level
-- 🔭 I apply data science to astrophysics problems
 - 🌐 I'm passionate about using data to improve healthcare outcomes
 - 📚 Continuous learner - always exploring new technologies
 
