@@ -19,7 +19,7 @@ I studied physics and mathematics in Mumbai. I moved to Canada four years ago an
 
 By day, I'm a Software Developer at metricHEALTH Solutions, where I build integrations and data infrastructure for healthcare delivery under FHIR and SOC 2 compliance. Our team was recognized with the 2024 Barrie Mayor's Award for Research and Innovation.
 
-I also work as a Library Associate at Barrie Public Library, where I designed and delivered Tech Titans, a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I teach AI and data literacy workshops to community members, and I sit on the Research and Evaluation Committee at the Ontario Public Library Association.
+I also work as a Library Associate at Barrie Public Library, where I designed and delivered Tech Titans (Sept 2025–April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I teach AI and data literacy workshops to community members, and I sit on the Research and Evaluation Committee at the Ontario Public Library Association.
 
 Outside of work, I serve on the board of Firebird Community Cycle, I write poetry and personal essays on [Substack](https://tirtheshjani.substack.com), and I research for the Roots of Reality podcast.
 
@@ -75,9 +75,9 @@ The thread through all of it: I build technology that serves people, and I try t
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Stellar Spectra with Gradient Origin Networks**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Deep generative model (GON) in PyTorch for synthesizing high-fidelity stellar spectra. Trained on 30,000+ stars from the Canadian Astronomy Data Centre, with DVC-tracked data and a full test suite. | PyTorch, Astropy, DVC |
+| [**Stellar Spectra with Gradient Origin Networks**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Cross-survey deep generative model (GON, PyTorch) trained on a ~30k cross-matched star catalog drawn from APOGEE DR17, GALAH DR3, and Gaia-ESO DR4. Fourier and SIREN coordinate encoders, log-lambda resampling, HDF5 + Parquet storage, DVC-tracked. | PyTorch, Astropy, DVC |
 | [**Stellar MK Audit**](https://github.com/TirtheshJani/stellar-mk-audit) | QA and validation tooling for MK (Morgan-Keenan) stellar classification labels. Cross-checks survey catalogs, flags inconsistencies, and reports drift across reclassifications. | Python, Pandas, Astropy |
-| [**Stellar Classification ML**](https://github.com/TirtheshJani/STARTYPE-CLASSIFICATION-) | Capstone study comparing four ML models on 3,500 stellar spectra. Random Forest reached 92% accuracy on automated spectral typing. | Scikit-Learn, Pandas |
+| [**Stellar Type Classifier**](https://github.com/TirtheshJani/STARTYPE-CLASSIFICATION-) | Six-class stellar type classifier on the 240-star Stars dataset. ColumnTransformer pipeline with categorical color normalization and Random Forest, stratified splits, joblib persistence, and CLI training/inference scripts. | Scikit-Learn, Pandas |
 | [**Deep Generative Model for Stellar Spectra**](https://github.com/TirtheshJani/Deep-Generative-Model-Stellar-Spectra) *(archived)* | Earlier generative modeling work on APOGEE survey data with a spectral cross-matching pipeline. Superseded by StellarSpectraWithGONS. | Python, Jupyter |
 
 ### Quantum Computing
@@ -91,9 +91,9 @@ The thread through all of it: I build technology that serves people, and I try t
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Clinical Note Summarizer (MLOps)**](https://github.com/TirtheshJani/MLOPS-Project) | Production RAG pipeline with a fine-tuned FLAN-T5 backbone. FastAPI + React frontend, containerized with Docker, deployed on GKE with CI/CD. | PyTorch, FastAPI, Docker, K8s |
-| [**Neural Networks from Scratch**](https://github.com/TirtheshJani/NN-with-math-and-numpy) | Full neural network implementation using only NumPy: forward/backward passes, activation functions, and gradient optimization. 85% on MNIST. | NumPy, Mathematics |
-| [**Iowa Liquor Sales Forecasting**](https://github.com/ruwzeta/alcholsalespredictioniowa) | LSTM model for retail demand forecasting. 88% accuracy supporting inventory optimization. | TensorFlow, Keras |
+| [**Clinical Note Summarizer (MLOps)**](https://github.com/TirtheshJani/MLOPS-Project) | End-to-end MLOps reference for healthcare NLP. FLAN-T5 fine-tuned on MTS-Dialog, served by FastAPI + React, packaged in a multi-stage Docker image, and deployed to GKE Autopilot via GitHub Actions CI/CD with Workload Identity Federation. Production-style probes, rate limiting, and graceful model fallback. | PyTorch, FastAPI, Docker, K8s |
+| [**Neural Networks from Scratch**](https://github.com/TirtheshJani/NN-with-math-and-numpy) | Two-layer neural network from first principles using only NumPy: derived forward propagation, ReLU/Softmax, backpropagation via chain rule, and gradient descent. Built for understanding the math. | NumPy, Mathematics |
+| [**Iowa Liquor Sales Forecasting**](https://github.com/ruwzeta/alcholsalespredictioniowa) | Comparison of an LSTM against an AutoML pipeline for retail demand forecasting on Iowa liquor sales, tuned for inventory optimization. | TensorFlow, Keras |
 
 ### Data Analytics
 
