@@ -23,7 +23,7 @@ Alongside production work, I run two independent research threads. The first is 
 
 I also work as a **Library Associate at Barrie Public Library**, where I designed and delivered Tech Titans (September 2025 to April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I sit on the Research and Evaluation Committee at the Ontario Public Library Association, where I co-designed a province-wide psychological safety survey covering 1,100+ responses across 60+ library systems and co-presented findings at OLA Super Conference.
 
-I serve on the board of Firebird Community Cycle, write poetry and personal essays on [Substack](https://tirtheshjani.substack.com), and research for the Roots of Reality podcast.
+I serve on the board of Firebird Community Cycle, write poetry and essays on [Substack](https://tirtheshjani.substack.com), and research for the Roots of Reality podcast.
 
 The thread through all of it: I build technology that serves people, and I try to make complex things accessible.
 
