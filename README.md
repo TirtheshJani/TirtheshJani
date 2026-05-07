@@ -1,6 +1,6 @@
 # Hi, I'm TJ (Tirthesh Jani)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E96F7&width=600&lines=Data+Analyst+%26+Software+Developer;Physics+%2B+AI+%2B+Community;Building+things+that+serve+people)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E96F7&width=700&lines=AI%2FML+Engineer+%7C+Healthcare+AI+%7C+Applied+Research;Physics+%2B+Production+ML+%2B+FHIR-native+infrastructure;Building+systems+that+serve+people)
 
 <div align="center">
 
@@ -15,13 +15,15 @@
 
 ## About Me
 
-I studied physics and mathematics in Mumbai. I moved to Canada four years ago and trained in AI and data analytics. Now I work at the intersection of all three: building data systems, writing machine learning pipelines, and teaching technology to people who have never touched it.
+I'm an AI/ML engineer working at the intersection of physics, machine learning, and healthcare. I trained as a physicist at the University of Mumbai (BSc Physics, Mathematics minor), moved to Canada in 2021, and earned graduate certificates in AI Design and Implementation and Big Data Analytics at Georgian College. The combination of foundational sciences, modern ML, and shipped healthcare software is the throughline of how I work.
 
-By day, I'm a Software Developer at metricHEALTH Solutions, where I build integrations and data infrastructure for healthcare delivery under FHIR and SOC 2 compliance. Our team was recognized with the 2024 Barrie Mayor's Award for Research and Innovation.
+By day I'm a **Software Developer and Data Engineer at metricHEALTH Solutions**, building FHIR-compliant data infrastructure and ML systems for healthcare delivery under SOC 2 compliance. Our team received the 2024 City of Barrie Mayoral Award for Research and Innovation.
 
-I also work as a Library Associate at Barrie Public Library, where I designed and delivered Tech Titans (Sept 2025–April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I teach AI and data literacy workshops to community members, and I sit on the Research and Evaluation Committee at the Ontario Public Library Association.
+Alongside production work, I run two independent research threads. The first is an interpretability audit of a LightGBM Morgan-Keenan stellar classifier on Gaia-ESO UVES spectra, triangulating three attribution methods with a causal masked-line ablation against physically diagnostic absorption features. The second is a paired-data study comparing structured-FHIR retrieval against LLM-narrative RAG for temporally-grounded clinical question answering. Both papers are in preparation.
 
-Outside of work, I serve on the board of Firebird Community Cycle, I write poetry and personal essays on [Substack](https://tirtheshjani.substack.com), and I research for the Roots of Reality podcast.
+I also work as a **Library Associate at Barrie Public Library**, where I designed and delivered Tech Titans (September 2025 to April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I sit on the Research and Evaluation Committee at the Ontario Public Library Association, where I co-designed a province-wide psychological safety survey covering 1,100+ responses across 60+ library systems and co-presented findings at OLA Super Conference.
+
+I serve on the board of Firebird Community Cycle, write poetry and personal essays on [Substack](https://tirtheshjani.substack.com), and research for the Roots of Reality podcast.
 
 The thread through all of it: I build technology that serves people, and I try to make complex things accessible.
 
@@ -44,64 +46,78 @@ The thread through all of it: I build technology that serves people, and I try t
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?style=flat-square&logo=lightgbm&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white)
 
-### Cloud, DevOps & Data Engineering
+### Cloud, MLOps & Data Engineering
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-
-### Tools
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+### Healthcare & Interoperability
+
+![FHIR](https://img.shields.io/badge/FHIR_R4B-CC0033?style=flat-square&logoColor=white)
+![HL7](https://img.shields.io/badge/HL7-005A9C?style=flat-square&logoColor=white)
+![SOC 2](https://img.shields.io/badge/SOC_2-1F2A44?style=flat-square&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C8DBC?style=flat-square&logo=oauth&logoColor=white)
+![Synthea](https://img.shields.io/badge/Synthea-2C5F2D?style=flat-square&logoColor=white)
+
+### Visualization
+
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=flat-square&logo=dvc&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 ---
 
 ## Featured Projects
 
-### Astrophysics & Physics
+### Production ML & MLOps
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Stellar Spectra with Gradient Origin Networks**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Cross-survey deep generative model (GON, PyTorch) trained on a ~30k cross-matched star catalog drawn from APOGEE DR17, GALAH DR3, and Gaia-ESO DR4. Fourier and SIREN coordinate encoders, log-lambda resampling, HDF5 + Parquet storage, DVC-tracked. | PyTorch, Astropy, DVC |
-| [**Stellar MK Audit**](https://github.com/TirtheshJani/stellar-mk-audit) | QA and validation tooling for MK (Morgan-Keenan) stellar classification labels. Cross-checks survey catalogs, flags inconsistencies, and reports drift across reclassifications. | Python, Pandas, Astropy |
-| [**Stellar Type Classifier**](https://github.com/TirtheshJani/STARTYPE-CLASSIFICATION-) | Six-class stellar type classifier on the 240-star Stars dataset. ColumnTransformer pipeline with categorical color normalization and Random Forest, stratified splits, joblib persistence, and CLI training/inference scripts. | Scikit-Learn, Pandas |
-| [**Deep Generative Model for Stellar Spectra**](https://github.com/TirtheshJani/Deep-Generative-Model-Stellar-Spectra) *(archived)* | Earlier generative modeling work on APOGEE survey data with a spectral cross-matching pipeline. Superseded by StellarSpectraWithGONS. | Python, Jupyter |
+| [**Clinical Note Summarizer (MLOps)**](https://github.com/TirtheshJani/MLOPS-Project) | End-to-end MLOps reference for healthcare NLP. FLAN-T5 fine-tuned on the public MTS-Dialog corpus, served by FastAPI + React, packaged in a multi-stage Docker image, and deployed to GKE Autopilot via GitHub Actions CI/CD with Workload Identity Federation. Production-style probes, Pydantic v2 validation, per-IP rate limiting, and graceful model fallback. Treated as a non-PHI demo end to end. | PyTorch, FastAPI, Docker, K8s, GCP |
 
-### Quantum Computing
+### Healthcare AI & Interoperability Research
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**FHIR Retrieval Test**](https://github.com/TirtheshJani/FHIRretrievaltest) | Paired-data study comparing structured-FHIR retrieval against LLM-narrative RAG for temporally-grounded specialty-medication question answering. ~200 Synthea synthetic patients, three retrieval systems (narrative, naive structured, resource-aware structured with typed filtering, reference traversal, and temporal pre-filtering), ~120 programmatically-verifiable questions, paired bootstrap and McNemar testing. Research plan complete. Paper in preparation, arXiv preprint trajectory. | Python 3.11, fhir.resources, chromadb, Synthea |
+| [**QML Healthcare Diagnostics**](https://github.com/TirtheshJani/QML-Healthcare-Diagnostics) | Quantum Support Vector Machine for ICU mortality prediction, benchmarking quantum kernel methods against classical baselines on patient outcome data. | Qiskit, Scikit-Learn |
+
+### Interpretable ML & Astrophysical Computing
+
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**Stellar MK Audit**](https://github.com/TirtheshJani/stellar-mk-audit) | Interpretability audit of a LightGBM Morgan-Keenan classifier on Gaia-ESO UVES stellar spectra. Triangulates permutation importance, TreeSHAP, and sliding-window occlusion, plus a causal masked-line ablation testing reliance on physically diagnostic absorption features (Balmer series, Mg b triplet, Na D doublet, Ca I) with bootstrap CIs and random-window controls. Benchmarked against the Pickles 1998 UVKLIB template library. Paper in preparation. | LightGBM, SHAP, NumPy, Astropy |
+| [**Stellar Spectra Data Pipeline (GONS)**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Cross-survey data engineering pipeline for a Gradient Origin Network generative-modeling project on stellar spectra. Survey-specific FITS readers, RA/Dec cross-match producing a ~30,000-star catalog from APOGEE DR17, GALAH DR3, and Gaia-ESO DR4 (UVES), log-lambda resampling, continuum normalization, HDF5 + Parquet storage, all DVC-tracked. Model code is upstream. | Python, Astropy, DVC, PyArrow |
+| [**Stellar Type Classifier**](https://github.com/TirtheshJani/STARTYPE-CLASSIFICATION-) | Six-class stellar type classifier on the 240-star Stars dataset. ColumnTransformer pipeline with categorical color normalization and Random Forest, stratified splits, joblib persistence, CLI training and inference. | Scikit-Learn, Pandas |
+
+### Quantum Computing & ML Foundations
 
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**QML Essentials**](https://github.com/TirtheshJani/QML-Essentials-) | Working library of quantum machine learning primitives: variational circuits, quantum kernels, and benchmarking utilities for hybrid classical-quantum models. | Qiskit, Python |
-| [**QEC Project**](https://github.com/TirtheshJani/QEC-Project) | Hands-on study of quantum error correction fundamentals — stabilizer codes, surface codes, and decoder experiments. | Qiskit, Python |
-
-### Machine Learning & MLOps
-
-| Project | Description | Tech |
-| --- | --- | --- |
-| [**Clinical Note Summarizer (MLOps)**](https://github.com/TirtheshJani/MLOPS-Project) | End-to-end MLOps reference for healthcare NLP. FLAN-T5 fine-tuned on MTS-Dialog, served by FastAPI + React, packaged in a multi-stage Docker image, and deployed to GKE Autopilot via GitHub Actions CI/CD with Workload Identity Federation. Production-style probes, rate limiting, and graceful model fallback. | PyTorch, FastAPI, Docker, K8s |
+| [**QEC Project**](https://github.com/TirtheshJani/QEC-Project) | Hands-on study of quantum error correction. Stabilizer codes, surface codes, and decoder experiments. | Qiskit, Python |
 | [**Neural Networks from Scratch**](https://github.com/TirtheshJani/NN-with-math-and-numpy) | Two-layer neural network from first principles using only NumPy: derived forward propagation, ReLU/Softmax, backpropagation via chain rule, and gradient descent. Built for understanding the math. | NumPy, Mathematics |
-| [**Iowa Liquor Sales Forecasting**](https://github.com/ruwzeta/alcholsalespredictioniowa) | Comparison of an LSTM against an AutoML pipeline for retail demand forecasting on Iowa liquor sales, tuned for inventory optimization. | TensorFlow, Keras |
 
 ### Data Analytics
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Divvy Bikes Case Study**](https://github.com/TirtheshJani/Case_Study_Divvy_Bikes-) | Chicago bike-share analysis comparing member and casual rider patterns, with business recommendations for conversion strategy. | Tableau, Python |
-| [**Natural Disasters (1900-2021)**](https://github.com/TirtheshJani/Case_Study_Natural_Disasters_1900_2021) | Global disaster trend analysis across 121 years of EM-DAT records. | Python, Pandas |
-| [**CarePal**](https://github.com/IAMAMZ/CarePal) | 2nd place, Georgian College GenAI Hackathon 2024. AI wellness companion for seniors. | Cohere API, React |
+| [**Iowa Liquor Sales Forecasting**](https://github.com/ruwzeta/alcholsalespredictioniowa) | Comparison of an LSTM against an AutoML pipeline for retail demand forecasting on Iowa liquor sales, tuned for inventory optimization. Collaborator project. | TensorFlow, Keras |
+| [**Divvy Bikes Case Study**](https://github.com/TirtheshJani/Case_Study_Divvy_Bikes-) | Chicago bike-share analysis comparing member and casual rider patterns, with business recommendations for casual-to-member conversion. | Tableau, Python |
+| [**Natural Disasters (1900-2021)**](https://github.com/TirtheshJani/Case_Study_Natural_Disasters_1900_2021) | Global disaster trend analysis across 121 years of EM-DAT records. | Python, Pandas, Tableau |
+| [**CarePal**](https://github.com/IAMAMZ/CarePal) | 2nd place, Georgian College GenAI Hackathon 2024. AI wellness companion for seniors. Role: business strategy and pitch. | Cohere API, React |
 
 ---
 
@@ -109,11 +125,10 @@ The thread through all of it: I build technology that serves people, and I try t
 
 | Repo | Description |
 | --- | --- |
-| [Portfolio Site](https://github.com/TirtheshJani/portfolio) | Personal portfolio built in TypeScript/React |
+| [Portfolio Site](https://github.com/TirtheshJani/portfolio) | Personal portfolio in TypeScript / React |
 | [Data Collection and Curation](https://github.com/TirtheshJani/Data_Collection_and_Curation) | Data engineering pipeline in Scala |
-| [GCP Agents: Summoner](https://github.com/TirtheshJani/GCP-Agents---Summoner) | Google Cloud Agentverse exploration |
+| [GCP Agents: Summoner](https://github.com/TirtheshJani/GCP-Agents---Summoner) | Google Cloud Agentverse, multi-agent LLM orchestration exploration |
 | [Iowa Sales Data Cleaning](https://github.com/TirtheshJani/IOWA_Liquor_Sales_Data_Cleaning_and_Preparation) | Companion data prep for the LSTM forecasting project |
-| [Chernobyl Data Cleaning](https://github.com/TirtheshJani/Chernobyl-Cleaning) | Data cleaning and preparation exercise |
 | [StyleOmega](https://github.com/ruwzeta/StyleOmega) | Collaborative AI application |
 | [ProSports Talents](https://github.com/EnteRHlytics/ProsportsTalents) | Sports analytics work with EnteRHlytics |
 
@@ -122,8 +137,8 @@ The thread through all of it: I build technology that serves people, and I try t
 ## Education & Certifications
 
 - **BSc Physics (Major), Mathematics (Minor)** — University of Mumbai, India
-- **Ontario College Graduate Certificate, AI Design and Implementation (Honours)** — Georgian College, 4.0 GPA
-- **Ontario College Graduate Certificate, Big Data Analytics (Honours)** — Georgian College, 4.0 GPA
+- **Ontario College Graduate Certificate, AI Design and Implementation (Honours)** — Georgian College
+- **Ontario College Graduate Certificate, Big Data Analytics (Honours)** — Georgian College
 - **Google Advanced Data Analytics Professional Certificate** — 2025
 - **Google Data Analytics Professional Certificate** — 2024
 
@@ -131,7 +146,7 @@ The thread through all of it: I build technology that serves people, and I try t
 
 ## Awards
 
-- **Barrie Mayor's Award for Research and Innovation** — 2024 (metricHEALTH Solutions team)
+- **City of Barrie Mayoral Award for Research and Innovation** — 2024 (metricHEALTH Solutions team)
 - **2nd Place, Generative AI Hackathon** — 2024 (Georgian College)
 - **Georgian Scholar** — 2022, 2023
 - **Dean's List** — Fall 2021, Winter 2022, Fall 2022
@@ -148,19 +163,17 @@ The thread through all of it: I build technology that serves people, and I try t
 
 ---
 
-## Currently Exploring
+## Currently Working On
 
-- Quantum machine learning (Qiskit, variational circuits, quantum kernels)
-- Transformer architectures and LLM-backed RAG systems
-- Advanced MLOps patterns (model monitoring, deployment strategies, data versioning)
-- Multi-agent AI systems and orchestration on GCP
-- FHIR-native data infrastructure for healthcare interoperability
+- **FHIR-native retrieval research.** Paired-data study comparing structured-FHIR RAG against LLM-narrative RAG for temporally-grounded specialty-medication QA. Resource-aware FHIR retriever with typed filtering, reference traversal, and temporal pre-filtering. Paper in preparation, arXiv preprint trajectory.
+- **Interpretability audit on stellar classifiers.** LightGBM MK-class audit with three attribution methods plus causal masked-line ablation against physically diagnostic absorption features. Paper in preparation.
+- **Multi-agent LLM orchestration on GCP**, advanced MLOps patterns (model monitoring, deployment strategies, data versioning), and continued QML work.
 
 ---
 
 ## Get In Touch
 
-I'm open to conversations about machine learning, data infrastructure, astrophysical computing, quantum information, science communication, or anything at the intersection of technology and public service.
+I'm open to conversations about machine learning systems, healthcare data infrastructure, FHIR-native interoperability, interpretable ML, astrophysical computing, quantum information, or anything at the intersection of technology and public service.
 
 <div align="center">
 
