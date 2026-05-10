@@ -17,15 +17,13 @@
 
 I'm an AI/ML engineer working at the intersection of physics, machine learning, and healthcare. I trained as a physicist at the University of Mumbai (BSc Physics, Mathematics minor), moved to Canada in 2021, and earned graduate certificates in AI Design and Implementation and Big Data Analytics at Georgian College. The combination of foundational sciences, modern ML, and shipped healthcare software is the throughline of how I work.
 
-By day I'm a **Software Developer and Data Engineer at metricHEALTH Solutions**, building FHIR-compliant data infrastructure and ML systems for healthcare delivery under SOC 2 compliance. Our team received the 2024 City of Barrie Mayoral Award for Research and Innovation.
+By day I'm a Software Developer and Data Engineer at metricHEALTH Solutions, building FHIR-compliant data infrastructure and ML systems for healthcare delivery under SOC 2 compliance. Our team received the 2024 City of Barrie Mayoral Award for Research and Innovation.
 
 Alongside production work, I run two independent research threads. The first is an interpretability audit of a LightGBM Morgan-Keenan stellar classifier on Gaia-ESO UVES spectra, triangulating three attribution methods with a causal masked-line ablation against physically diagnostic absorption features. The second is a paired-data study comparing structured-FHIR retrieval against LLM-narrative RAG for temporally-grounded clinical question answering. Both papers are in preparation.
 
-I also work as a **Library Associate at Barrie Public Library**, where I designed and delivered Tech Titans (September 2025 to April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I sit on the Research and Evaluation Committee at the Ontario Public Library Association, where I co-designed a province-wide psychological safety survey covering 1,100+ responses across 60+ library systems and co-presented findings at OLA Super Conference.
+I also work as a Library Associate at Barrie Public Library, where I designed and delivered Tech Titans (September 2025 to April 2026), a grant-funded youth STEM program covering Python, robotics, and competitive FIRST LEGO League. I sit on the Research and Evaluation Committee at the Ontario Public Library Association, where I co-designed a province-wide psychological safety survey covering 1,100+ responses across 60+ library systems and co-presented findings at OLA Super Conference. I write poetry and essays on [Substack](https://tirtheshjani.substack.com) and research for the Roots of Reality podcast.
 
-I serve on the board of Firebird Community Cycle, write poetry and essays on [Substack](https://tirtheshjani.substack.com), and research for the Roots of Reality podcast.
-
-The thread through all of it: I build technology that serves people, and I try to make complex things accessible.
+A line I keep close: *Ad astra per aspera*, "a rough road leads to the stars." The work I'm drawn to is the kind where the answer isn't clean, where the system has to hold up under real conditions, and where the person using it is the test of whether you got it right.
 
 ---
 
@@ -173,7 +171,7 @@ The thread through all of it: I build technology that serves people, and I try t
 
 ## Get In Touch
 
-I'm open to conversations about machine learning systems, healthcare data infrastructure, FHIR-native interoperability, interpretable ML, astrophysical computing, quantum information, or anything at the intersection of technology and public service.
+I'm open to conversations about machine learning systems, healthcare data infrastructure, FHIR-native interoperability, interpretable ML, astrophysical computing, quantum information, or anything at the intersection of technology and public service. If you're building systems where reliability and human stakes both matter, I'd like to hear about it.
 
 <div align="center">
 
