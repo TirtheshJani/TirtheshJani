@@ -23,7 +23,7 @@ There is a thread through all of my work: I want to know what is happening under
 
 I am a Software Developer and Data Engineer at metricHEALTH Solutions, on a team that received the 2024 Barrie Mayor's Award for Research and Innovation. I am also a Library Associate at Barrie Public Library and I sit on a research and evaluation committee for the Ontario Public Library Association, because I believe public libraries are one of the last places in our world where access still means access.
 
-Outside of code, I write essays and poetry on Substack at [*An Anxious Nomad Collective*](https://tirtheshjani.substack.com). I read more than is probably useful.
+Outside of code, I read more than is probably useful.
 
 Open to roles in scientific AI/ML, MLOps tooling, and interpretable ML.
 
