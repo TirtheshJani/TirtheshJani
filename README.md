@@ -1,6 +1,6 @@
 # Hi, I'm TJ (Tirthesh Jani)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E96F7&width=700&lines=ML+Engineer+%7C+Physics+%2B+AI+Postgrad+Training;Production+ML+%2B+Scientific+Model+Interpretability;Knowing+what+is+happening+underneath)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E96F7&width=700&lines=Machine+Learning+Engineer+%7C+Physics+%2B+AI+Postgrad+Training;Production+ML+%2B+Scientific+Model+Interpretability;Knowing+what+is+happening+underneath)
 
 <div align="center">
 
@@ -11,7 +11,7 @@
 
 </div>
 
-> ML engineer. Physics + AI postgrad training. I build production ML systems and audit scientific models with interpretability methods.
+> Machine learning engineer. Physics + AI postgrad training. I build production ML systems and audit scientific models with interpretability methods.
 
 ---
 
@@ -29,28 +29,30 @@ Open to roles in scientific AI/ML, MLOps tooling, and interpretable ML.
 
 ---
 
-## Featured Work
+## Research
 
-### Completed Manuscripts
-
-*May 2026 — Zenodo deposit, arXiv submission pending.*
+Two completed sole-author manuscripts (May 2026). Zenodo deposit; arXiv submission pending. ORCID: [0009-0005-5965-4409](https://orcid.org/0009-0005-5965-4409).
 
 | Manuscript | Summary |
 | --- | --- |
-| **Causal masked-line ablation reveals partial shortcut learning in a tree-based MK classifier of Gaia-ESO UVES spectra** (sole author) — [stellar-mk-audit](https://github.com/TirtheshJani/stellar-mk-audit) | A LightGBM classifier of Morgan-Keenan spectral types F, G, K trained on 3,032 Gaia-ESO FLAMES-UVES spectra. Triangulates permutation importance, TreeSHAP, and sliding-window occlusion, then introduces interventional masked-line ablation as a falsifiable per-class audit. Macro-F1 = 0.926 on the production-continuum baseline (456-spectrum held-out test set). Paired-bootstrap confidence intervals, random-window controls, Phipson-Smyth-corrected per-pair significance at α = 0.0033. Surfaces two distinct shortcuts at the per-line, per-class level. |
-| **Representation Wins on QA, Not on ML** (sole author) — [FHIRretrievaltest](https://github.com/TirtheshJani/FHIRretrievaltest) | First paired-data comparison of structured FHIR retrieval against LLM-narrative retrieval for clinical question answering. 200 synthetic patients, 13,800 questions across five specialty-medication families, three retrieval systems (Narrative, naive structured, resource-aware structured with typed filtering, reference traversal, and temporal pre-filtering) plus a no-retrieval baseline. Narrative RAG wins QA at 40.6% (versus 33.4–35.3% structured), but structured FHIR features dominate downstream adherence classification at LightGBM AUC 0.997 versus narrative 0.846. |
+| **Interventional masked-line ablation reveals partial shortcut learning in a LightGBM MK classifier of Gaia-ESO UVES spectra** (sole author). Code: [stellar-mk-audit](https://github.com/TirtheshJani/stellar-mk-audit). | A LightGBM classifier of Morgan-Keenan spectral types F, G, K trained on 3,032 Gaia-ESO FLAMES-UVES spectra. Triangulates permutation importance, TreeSHAP, and sliding-window occlusion, then introduces interventional masked-line ablation as a falsifiable per-class audit. Macro-F1 = 0.926 on the production-continuum baseline (456-spectrum held-out test set). Paired-bootstrap confidence intervals, random-window controls, Phipson-Smyth-corrected per-pair significance at alpha = 0.0033. Surfaces two distinct shortcuts at the per-line, per-class level. |
+| **Representation Wins on QA, Not on ML** (sole author). DOI: [10.5281/zenodo.20263384](https://doi.org/10.5281/zenodo.20263384). Code: [FHIRretrievaltest](https://github.com/TirtheshJani/FHIRretrievaltest). | First paired-data comparison of structured FHIR retrieval against LLM-narrative retrieval for clinical question answering. 200 synthetic patients, 13,800 questions across five specialty-medication families, three retrieval systems (Narrative, naive structured, resource-aware structured with typed filtering, reference traversal, and temporal pre-filtering) plus a no-retrieval baseline. Narrative RAG wins QA at 40.6% (versus 33.4 to 35.3% structured), but structured FHIR features dominate downstream adherence classification at LightGBM AUC 0.997 versus narrative 0.846. |
 
-### Production MLOps
+---
+
+## Production MLOps
 
 | Project | Description | Tech |
 | --- | --- | --- |
 | [**Clinical Note Summarizer**](https://github.com/TirtheshJani/MLOPS-Project) | Fine-tuned FLAN-T5 on the Microsoft MTS-Dialog clinician/patient corpus. Served from a FastAPI backend behind a React/Vite SPA, packaged in a multi-stage Docker image, deployed on GKE Autopilot via GitHub Actions CI/CD with Workload Identity Federation (no JSON keys in pipeline). Liveness/readiness probes, per-IP rate limiting, Pydantic v2 validation, graceful model fallback. | FLAN-T5, FastAPI, React, Docker, GKE |
 
-### Scientific Data Engineering
+---
+
+## Scientific Data Engineering
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Stellar Spectra Cross-Survey Pipeline**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Data engineering layer for a Gradient Origin Network generative-modeling project on stellar spectra. Survey-specific FITS readers (APOGEE apStar/apVisit, GALAH four-camera, Gaia-ESO UVES Phase-3), RA/Dec cross-match producing a ~30,000-star common-star catalogue from APOGEE DR17, GALAH DR3, and Gaia-ESO DR4 UVES. Log-lambda resampling at R ≈ 10,000 over 3,500–17,000 Å, multiple continuum normalization methods, telluric and detector-gap masking, SNR-aware quality flags. Storage in compressed HDF5 (regridded) and PyArrow Parquet (native-resolution ragged arrays), all DVC-tracked. The GON model architecture and training code are upstream / inherited and not my work; this entry covers the data pipeline scope only. | Astropy, FITS, HDF5, PyArrow, DVC |
+| [**Stellar Spectra Cross-Survey Pipeline**](https://github.com/TirtheshJani/StellarSpectraWithGONS) | Data engineering layer for a Gradient Origin Network generative-modeling project on stellar spectra. Survey-specific FITS readers (APOGEE apStar/apVisit, GALAH four-camera, Gaia-ESO UVES Phase-3), RA/Dec cross-match producing a ~30,000-star common-star catalogue from APOGEE DR17, GALAH DR3, and Gaia-ESO DR4 UVES. Log-lambda resampling at R ~ 10,000 over 3,500 to 17,000 angstrom, multiple continuum normalization methods, telluric and detector-gap masking, SNR-aware quality flags. Storage in compressed HDF5 (regridded) and PyArrow Parquet (native-resolution ragged arrays), all DVC-tracked. The GON model architecture and training code are upstream / inherited and not my work; this entry covers the data pipeline scope only. | Astropy, FITS, HDF5, PyArrow, DVC |
 
 ---
 
@@ -114,18 +116,18 @@ Open to roles in scientific AI/ML, MLOps tooling, and interpretable ML.
 
 ## Education
 
-- **Ontario College Graduate Certificate, AI Design and Implementation** (Honours, Georgian Scholar) — Georgian College
-- **Ontario College Graduate Certificate, Big Data Analytics** (Honours, Georgian Scholar) — Georgian College
-- **BSc Physics (Major), Mathematics (Minor)** — University of Mumbai
-- **Google Advanced Data Analytics Professional Certificate** — 2025
-- **Google Data Analytics Professional Certificate** — 2024
+- **Ontario College Graduate Certificate (postgraduate), AI Design and Implementation** (Honours, Georgian Scholar). Georgian College.
+- **Ontario College Graduate Certificate (postgraduate), Big Data Analytics** (Honours, Georgian Scholar). Georgian College.
+- **BSc Physics (Major), Mathematics (Minor).** University of Mumbai.
+- **Google Advanced Data Analytics Professional Certificate**, 2025.
+- **Google Data Analytics Professional Certificate**, 2024.
 
 ---
 
 ## Awards
 
-- **City of Barrie Mayoral Award for Research and Innovation** — 2024 (metricHEALTH Solutions team)
-- **2nd Place, Generative AI Hackathon** — Georgian College, 2024
+- **City of Barrie Mayoral Award for Research and Innovation**, 2024 (metricHEALTH Solutions team).
+- **2nd Place, Generative AI Hackathon**, Georgian College, 2024.
 
 ---
 
@@ -133,7 +135,7 @@ Open to roles in scientific AI/ML, MLOps tooling, and interpretable ML.
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TirtheshJani&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TirtheshJani&theme=tokyonight)
 
 </div>
 
