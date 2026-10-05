@@ -2,7 +2,7 @@
 
 I build data pipelines and AI features.
 
-I spent two years building production healthcare data software at metricHEALTH Solutions. I am now an MSc Computer Science student at Lakehead University, taking part-time and contract work: about 20 hours a week, remote or in the Barrie to Toronto corridor.
+I spent two years building production healthcare data software at metricHEALTH Solutions. I am now an MSc Computer Science student at Lakehead University.
 
 [tirtheshjani.com](https://tirtheshjani.com) · [LinkedIn](https://linkedin.com/in/tirthesh-jani) · tirtheshjani@gmail.com
 
